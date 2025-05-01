@@ -1,0 +1,39 @@
+{
+  "name": "KOMA 308",
+  "description": "KOMA NFT Collection — each image is not just art, it's your personal pass to mining. Hold it — and start digging.",
+  "external_url": "",
+  "image": "koma-308.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "555"
+    },
+    {
+      "trait_type": "KOMA Tails",
+      "value": "KOMA TAIL  (52)"
+    },
+    {
+      "trait_type": "KOMA BODY ",
+      "value": "KOMA BODY (84)"
+    },
+    {
+      "trait_type": "KOMA Tron Stands",
+      "value": "KOMA ThroneStands  (5)"
+    },
+    {
+      "trait_type": "KOMA Head",
+      "value": "KOMA HEAD  (34)"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "koma-308.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
